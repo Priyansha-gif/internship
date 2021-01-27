@@ -81,8 +81,9 @@ DOB - 27/08/1999<br>
 </font></ul>
 <a id = "certification"><h1 style = "font-family: Arial, Helvetica, sans-serif;" > CERTIFICATION </h1></a>
 <ul style = "font-size: 20px; font-family: Verdana, sans-serif;"><font color = "#00143D">
-<li> Certification in C,C++ from Bal Bhawan, Faridabad.</li>
+<li> Certification in C,C++ from MRIIRS , Faridabad.</li>
 <li> Certification in SQL from Solo Learn.</li>
+	<li> Certification in java  jsp from Solo Learn.</li>
 </font></ul>
 <a id = "contact"><h1 style = "font-family: Arial, Helvetica, sans-serif;"> CONTACT </h1></a>
 <p style = "font-size: 20px; font-family: Verdana, sans-serif;"><font color = "#00143D"> Phone No. - **********<br>
