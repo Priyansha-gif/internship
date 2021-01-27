@@ -55,7 +55,7 @@ ul.topnav li.right {
 <li><a href = "#contact"> Contact </a></li>
 </ul>
 <a id = "introduction"><h1 style = "font-family: Arial, Helvetica, sans-serif;"> INTRO </h1></a>
-<img src = "C:\Users\priya\Documents\Java_Practice.jpg" width = "320" height = "450">
+<img src = "C:\Users\priya\OneDrive\Pictures\Screenshots.jpg" width = "320" height = "450">
 <center><p style = "font-size: 20px; font-family: Verdana, sans-serif;"><font color = "white">  NAME - Priyansha Tiwari<br>
 DOB - 27/08/1999<br>
         10th passing year - 2016<br>
